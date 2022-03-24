@@ -1,3 +1,3 @@
 # minty-releases
 
-Download the latest version here.
+Download the latest version of Minty.
